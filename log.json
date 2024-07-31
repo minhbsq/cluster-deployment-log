@@ -1,5 +1,5 @@
 {
-  "last_reset_time": "2024-07-30T04:06:18Z",
+  "last_reset_time": "2024-07-31T07:49:56Z",
   "reset_history": [
     {
       "time": "2024-07-29T09:30:02Z",
@@ -25,6 +25,11 @@
       "time": "2024-07-30T04:06:18Z",
       "username": "dats",
       "nodename": "LAPTOP-7GJSP7BV"
+    },
+    {
+      "time": "2024-07-31T07:49:56Z",
+      "username": "qiu-haoze",
+      "nodename": "qiu-haoze-ThinkPad-T490"
     }
   ]
 }
