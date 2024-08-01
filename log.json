@@ -1,5 +1,5 @@
 {
-  "last_reset_time": "2024-07-31T11:01:28Z",
+  "last_reset_time": "2024-08-01T00:34:55Z",
   "reset_history": [
     {
       "time": "2024-07-29T09:30:02Z",
@@ -35,6 +35,11 @@
       "time": "2024-07-31T11:01:28Z",
       "username": "paul",
       "nodename": "paul-XPS-15-9520"
+    },
+    {
+      "time": "2024-08-01T00:34:55Z",
+      "username": "tungdam",
+      "nodename": "red"
     }
   ]
 }
