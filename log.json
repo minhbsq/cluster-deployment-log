@@ -1,5 +1,5 @@
 {
-  "last_reset_time": "2024-08-03T03:12:26Z",
+  "last_reset_time": "2024-08-03T07:40:21Z",
   "reset_history": [
     {
       "time": "2024-07-29T09:30:02Z",
@@ -68,6 +68,11 @@
     },
     {
       "time": "2024-08-03T03:12:26Z",
+      "username": "tungdam",
+      "nodename": "red"
+    },
+    {
+      "time": "2024-08-03T07:40:21Z",
       "username": "tungdam",
       "nodename": "red"
     }
