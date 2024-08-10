@@ -1,11 +1,6 @@
 {
-  "last_reset_time": "2024-08-08T05:54:43Z",
+  "last_reset_time": "2024-08-10T03:51:47Z",
   "reset_history": [
-    {
-      "time": "2024-07-29T09:51:53Z",
-      "username": "phamtm",
-      "nodename": "Minhs-MacBook-Air.local"
-    },
     {
       "time": "2024-07-30T04:06:18Z",
       "username": "dats",
@@ -98,6 +93,11 @@
     },
     {
       "time": "2024-08-08T05:54:43Z",
+      "username": "dats",
+      "nodename": "LAPTOP-7GJSP7BV"
+    },
+    {
+      "time": "2024-08-10T03:51:47Z",
       "username": "dats",
       "nodename": "LAPTOP-7GJSP7BV"
     }
