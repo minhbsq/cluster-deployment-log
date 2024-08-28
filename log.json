@@ -1,11 +1,6 @@
 {
-  "last_reset_time": "2024-08-28T09:51:59Z",
+  "last_reset_time": "2024-08-28T10:52:25Z",
   "reset_history": [
-    {
-      "time": "2024-08-04T12:33:12Z",
-      "username": "tungdam",
-      "nodename": "red"
-    },
     {
       "time": "2024-08-04T17:26:14Z",
       "username": "dats",
@@ -98,6 +93,11 @@
     },
     {
       "time": "2024-08-28T09:51:59Z",
+      "username": "dats",
+      "nodename": "LAPTOP-7GJSP7BV"
+    },
+    {
+      "time": "2024-08-28T10:52:25Z",
       "username": "dats",
       "nodename": "LAPTOP-7GJSP7BV"
     }
