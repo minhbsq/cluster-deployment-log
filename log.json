@@ -1,11 +1,6 @@
 {
-  "last_reset_time": "2024-09-06T14:41:06Z",
+  "last_reset_time": "2024-09-06T15:37:41Z",
   "reset_history": [
-    {
-      "time": "2024-08-12T01:57:38Z",
-      "username": "qiu-haoze",
-      "nodename": "qiu-haoze-ThinkPad-T490"
-    },
     {
       "time": "2024-08-13T09:24:14Z",
       "username": "dats",
@@ -100,6 +95,11 @@
       "time": "2024-09-06T14:41:06Z",
       "username": "phamtm",
       "nodename": "Minhs-Mac-mini.local"
+    },
+    {
+      "time": "2024-09-06T15:37:41Z",
+      "username": "dats",
+      "nodename": "LAPTOP-7GJSP7BV"
     }
   ]
 }
